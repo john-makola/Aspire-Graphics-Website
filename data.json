@@ -1,0 +1,137 @@
+
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Premium Business Cards",
+      "description": "Double-sided, 400gsm matte lamination with spot UV options.",
+      "price": 4500,
+      "category": "Print",
+      "image": "https://images.unsplash.com/photo-1589118949245-7d38baf380d6?auto=format&fit=crop&q=80&w=800",
+      "minQuantity": 100,
+      "deliveryTime": "3-5 business days"
+    },
+    {
+      "id": "2",
+      "name": "Logo Design Package",
+      "description": "Professional vector logo with 3 initial concepts and full branding guide.",
+      "price": 25000,
+      "category": "Creative Design",
+      "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=800",
+      "minQuantity": 1,
+      "deliveryTime": "7-10 business days"
+    },
+    {
+      "id": "3",
+      "name": "Corporate Pull-up Banners",
+      "description": "High-quality 850mm x 2000mm retractable banners with carry bag.",
+      "price": 8500,
+      "category": "Signage",
+      "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?auto=format&fit=crop&q=80&w=800",
+      "minQuantity": 1,
+      "deliveryTime": "2-3 business days"
+    },
+    {
+      "id": "4",
+      "name": "Brand Identity Suite",
+      "description": "Complete package: Logo, Letterhead, Business Cards, and Social Media kit.",
+      "price": 60000,
+      "category": "Branding",
+      "image": "https://images.unsplash.com/photo-1634942537034-2531766767d1?auto=format&fit=crop&q=80&w=800",
+      "minQuantity": 1,
+      "deliveryTime": "14-21 business days"
+    },
+    {
+      "id": "5",
+      "name": "Embroidered Polo Shirts",
+      "description": "Premium cotton polos with custom chest embroidery.",
+      "price": 2500,
+      "category": "Apparel",
+      "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&q=80&w=800",
+      "minQuantity": 10,
+      "deliveryTime": "5-7 business days"
+    }
+  ],
+  "portfolioItems": [
+    { 
+      "id": "p1", 
+      "title": "Aetheric Logo Identity", 
+      "description": "A minimalist geometric mark for a high-end tech firm.",
+      "category": "Logos", 
+      "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=800",
+      "fullDescription": "We created a timeless mark that symbolizes connectivity and precision. The project included complete typography selection and color theory implementation.",
+      "client": "Aetheric Systems",
+      "tools": ["Adobe Illustrator", "Figma"]
+    },
+    { 
+      "id": "p2", 
+      "title": "Eco-Summer Festival", 
+      "description": "Vibrant promotional materials for an outdoor music event.",
+      "category": "Posters", 
+      "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?auto=format&fit=crop&q=80&w=800",
+      "fullDescription": "Captured the essence of summer through organic shapes and a neon-emerald palette. The campaign reached over 50,000 attendees.",
+      "client": "GreenVibe Music",
+      "tools": ["Photoshop", "InDesign"]
+    },
+    { 
+      "id": "p3", 
+      "title": "Luxe Real Estate Flyer", 
+      "description": "Sophisticated marketing print for luxury listings.",
+      "category": "Flyers", 
+      "image": "https://images.unsplash.com/photo-1586075010623-26c50dec4a45?auto=format&fit=crop&q=80&w=800",
+      "fullDescription": "High-contrast layout focusing on architectural photography and elegant sans-serif typography.",
+      "client": "Heritage Estates",
+      "tools": ["InDesign", "Lightroom"]
+    },
+    { 
+      "id": "p4", 
+      "title": "Slate Business Series", 
+      "description": "A matte black card series with spot gloss finish.",
+      "category": "Cards", 
+      "image": "https://images.unsplash.com/photo-1589118949245-7d38baf380d6?auto=format&fit=crop&q=80&w=800",
+      "fullDescription": "Tactile experience design focusing on paper weight and material contrast. The gold foil edges add a premium touch.",
+      "client": "Slate Consulting",
+      "tools": ["Illustrator"]
+    },
+    { 
+      "id": "p5", 
+      "title": "Nexus Fintech App", 
+      "description": "Next-gen dashboard for real-time asset tracking.",
+      "category": "Web Apps", 
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
+      "fullDescription": "UX-first design approach for complex data visualization. Focused on accessibility and rapid interaction cycles.",
+      "client": "Nexus Financial",
+      "tools": ["React", "Tailwind", "Figma"]
+    },
+    { 
+      "id": "p6", 
+      "title": "Modern Retail Portal", 
+      "description": "E-commerce experience for a luxury watch boutique.",
+      "category": "Web Apps", 
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=800",
+      "fullDescription": "Immersive product viewing experience with seamless checkout and high-performance image loading.",
+      "client": "Chrono Lux",
+      "tools": ["Next.js", "Framer Motion"]
+    },
+    {
+      "id": "p7",
+      "title": "Solaris Brand System",
+      "description": "Complete visual overhaul for a renewable energy giant.",
+      "category": "Branding",
+      "image": "https://images.unsplash.com/photo-1634942537034-2531766767d1?auto=format&fit=crop&q=80&w=800",
+      "fullDescription": "A bright, energetic identity system that works across digital interfaces and large-scale industrial signage.",
+      "client": "Solaris Energy",
+      "tools": ["Illustrator", "Figma", "After Effects"]
+    },
+    {
+      "id": "p8",
+      "title": "Avant-Garde Posters",
+      "description": "Experimental typography posters for a contemporary art gallery.",
+      "category": "Posters",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80&w=800",
+      "fullDescription": "Pushing the boundaries of legibility and aesthetic balance using brutalist design principles.",
+      "client": "The Collective Gallery",
+      "tools": ["Photoshop", "Custom Scripts"]
+    }
+  ]
+}

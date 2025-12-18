@@ -1,0 +1,7 @@
+{
+  "name": "Aspire Graphics - Creative Print & Branding",
+  "description": "A premium platform for professional printing, corporate branding, and creative graphic design services. Explore our catalog, get AI-powered design suggestions, and place orders seamlessly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
